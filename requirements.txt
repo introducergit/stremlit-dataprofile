@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+streamlit
+ydata-profiling
+streamlit-custom-ydata-profiling
+openpyxl
+xlrd
